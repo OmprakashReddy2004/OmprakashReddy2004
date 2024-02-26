@@ -1,4 +1,7 @@
-<img align="center" alt="Coding" width="970" height="250" src="https://www.shutterstock.com/image-vector/vector-line-web-concept-programming-linear-1025125252">
+ <div style="text-align: center;">
+    <img alt="Coding" width="970" height="250" src="https://www.shutterstock.com/image-vector/vector-line-web-concept-programming-linear-1025125252">
+</div>
+
 <h1 align="center">Hi 👋, I'm om prakash reddy</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
