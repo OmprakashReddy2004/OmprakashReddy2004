@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm om prakash reddy</h1>
 <h3 align="center">A passionate Full stack developer</h3>
-<img algin = "center" alt="Coding" width="970" height="250" src ="https://www.vecteezy.com/video/28735175-diverse-multi-ethnic-team-in-office-indian-female-and-black-male-it-programmers-working-on-desktop-computer-specialists-creating-software-engineers-developing-app-program-shifting-rack-focus">
+<img algin = "center" alt="Coding" width="970" height="250" src ="https://www.shutterstock.com/image-vector/vector-line-web-concept-programming-linear-1025125252">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif">
 
 
