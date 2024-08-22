@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
+
 
 <h1 align="center">Hi 👋, I'm om prakash reddy</h1>
 <h3 align="center">A passionate Full stack developer</h3>
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Leetcode challenge**
 
-- 🌱 I’m currently learning **Spring,Spring boot,Mern,CSS,JAVA,JavaScript**
+- 🌱 I’m currently learning ** Spring boot**
 
-- 💬 Ask me about **Java,Mern,SpringBoot**
+- 💬 Ask me about **Java,SpringBoot**
 
-- 📫 How to reach me **mandaomprakash.03@gmail.com**
+- 📫 How to reach me **omprakashreddyhr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
