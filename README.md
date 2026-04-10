@@ -47,12 +47,12 @@ I'm a passionate **Full Stack Developer** who loves building robust, scalable ap
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omprakashreddy2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakashreddy2004&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omprakashreddy2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=omprakashreddy2004&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakashreddy2004&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakashreddy2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer** who loves building robust, scalable ap
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omprakashreddy2004&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omprakashreddy2004&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
 ---
